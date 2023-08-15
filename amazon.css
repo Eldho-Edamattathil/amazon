@@ -200,7 +200,7 @@ span{
 
 .first-img{
   height: 350px;
-  background-image:url(images/hero_image.jpg);
+  background-image:url(hero_image.jpg);
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -348,7 +348,7 @@ font-weight: 600;
 }
 
 .footer-logo{
-  background-image:url(images/amazon_logo.png);
+  background-image:url(amazon_logo.png);
   width: 90px;
   height: 50px;
   background-size: cover;
